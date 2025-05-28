@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Uygulama1</string>
+    <string name="iceage_oyuncu">Denis Leary, Goran Visnjic, John Leguizamo, Ray Romano</string>
+    <string name="iceage_konu">20 bin yıl önce, Dünya hiç olmadığı kadar harika ve bir o kadar da tehlikelidir.</string>
+    <string name="jumanji_oyuncu">Denis Leary, Goran Visnjic, John Leguizamo, Ray Romano</string>
+    <string name="jumanji_konu">20 bin yıl önce, Dünya hiç olmadığı kadar harika ve bir o kadar da tehlikelidir.</string>
+    <string name="kingarthur_oyuncu">Clive Owen, Ioan Gruffudd, Keira Knightley, Stephen Dillane</string>
+    <string name="kingarthur_konu">Bir tarafta pagan inançları devam eden halklar, birtarafta Hristiyanlık ve bir tarafta Kuzeyli barbarların istalaları.</string>
+    <string name="ironman_oyuncu">Adrian Pasdar, Dee Bradley Baker, Fred Tatasciore, Robin Atkin Downes</string>
+    <string name="ironman_konu">Bilirsiniz, Hulk daima öfkesiyle tanınmış, bazen kontrolünü kaybeden o devasa yeşil yaratık.</string>
+    <string name="ipman_oyuncu">Matt Fowler, Philip Hersh, Xiaohu Tong, Yu-Hang To</string>
+    <string name="ipman_konu">İp Man, Foshan\'daki polis kaptanlığı döneminde, bölgeye Japon ordusu saldırırken intikam almaya çalışan bir gangster tarafından hedef alındı.</string>
+</resources>
